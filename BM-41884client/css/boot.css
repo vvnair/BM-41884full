@@ -1,0 +1,205 @@
+.row-this{
+			background-color: #3b5998;
+			padding-top: 10px;
+			padding-left: 8px;
+			padding-bottom: 10px;
+	} 
+
+
+	.col-email {
+
+		padding-top: 40px;
+		padding-bottom: 20px;
+	}
+
+	.col-pwd {
+		padding-bottom: 20px;
+	}
+
+	#para {
+		color: #263f6a;
+	font-size: 26px;
+	font-family: tahoma;
+	padding-left: 35px;
+	padding-top: 50px;
+	}
+#free {
+	color: #263f6a;
+	font-size: 18px;
+	margin-left: 40px;
+}
+
+h3{
+	color: #263f6a;
+	font-size: 28px;
+	padding-top: 36px;
+	margin-left: 40px;
+	}
+
+#image {
+	width: 100%;
+	padding-left: 10px;
+	padding-top: 10px;
+}
+
+.notfoot {
+
+	width: 460px;
+	
+	margin-left: 37px;
+	
+	border-color: #263f6a;
+
+}
+
+
+.input1 {
+
+margin-left: -60px;
+width: 70%;
+margin-top: -10px;
+
+	
+	
+}
+
+.input2 {
+
+margin-left: -60px;
+width: 70%;
+margin-top: -10px;
+	
+}
+
+.input3 {
+
+margin-left: -60px;
+width: 70%;
+	margin-top: -10px;
+}
+.input4 {
+
+margin-left: -60px;
+width: 70%;	
+margin-top: -10px;
+	
+}
+
+.input5 {
+
+margin-left: -60px;
+width: 70%;	
+margin-top: -10px;
+	
+}
+
+.gender {
+	margin-left: -60px;
+	margin-top: 10px;
+	
+}
+
+.day {
+	margin-left: -60px;
+	margin-top: 7px;
+}
+
+.mdy {
+
+	margin-left: 10px;
+}
+
+.left {
+	color: #263f6a;
+	font-size: 16px;
+}
+
+#fn {
+
+	margin-left: 80px;
+
+}
+
+#ln {
+	margin-left: 80px;
+	margin-top: 20px;
+}
+
+#ye {
+	margin-left: 81px;
+	margin-top: 20px;
+}
+
+#re {
+
+	margin-left: 51px;
+	margin-top: 20px;
+}
+
+#np {
+
+	margin-left: 51px;
+	margin-top: 22px;
+}
+
+#iam {
+
+	margin-left: 127px;
+	margin-top: 13px;
+}
+
+#birth {
+margin-left: 100px;
+	margin-top: -5px;
+	
+}
+
+#why {
+
+	color: blue;
+	font-size: 11px;
+
+}
+
+.wh {
+	margin-left: 170px;
+}
+
+.btn1 {
+
+	background-color: #5F9B4C;
+	color: white;
+	width: 140px;
+}
+
+#foot {
+
+	margin-left: -123px;
+	width: 460px;
+	border-color: #263f6a;
+margin-top: 10px;
+}
+
+.page {
+
+	color: blue;
+	font-size: 13px;
+	font-family: tahoma;
+	margin-left: -60px;
+
+}
+
+.foote {
+	margin-top: -12px;	
+}
+
+body {
+	background-color: #DCE0EE;
+}
+
+.btn2 {
+	width: 100%;
+	background-color: #5F9B4C;
+	color: white;
+	margin-top: 20px;
+}
